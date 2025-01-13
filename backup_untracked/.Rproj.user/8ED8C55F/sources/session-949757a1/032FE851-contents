@@ -1,0 +1,31 @@
+---
+title: "Contact Us"
+date: 2024-10-02
+---
+
+# Contact
+
+A shortcut to start communications.
+
+<form action="https://formspree.io/f/myzgrrdv" method="POST">
+  <label for="name">Name</label><br>
+  <input type="text" id="name" name="name" required><br><br>
+  
+  <label for="email">Email</label><br>
+  <input type="email" id="email" name="_replyto" required><br><br>
+  
+  <label for="message">Message</label><br>
+  <textarea id="message" name="message" required></textarea><br><br>
+  
+  <input type="submit" value="Send">
+</form>
+
+---
+
+<div>
+  <p><strong>Email:</strong> colella@ku.edu</p>
+  <p><strong>Address:</strong> 1345 Jayhawk Blvd, Lawrence, KS 66045</p>
+  <p><strong>Location:</strong> Dyche Hall, 7th Floor</p>
+  <p><strong>Hours:</strong> 09:00 to 17:00 (09:00 am to 05:00 pm)</p>
+  <p><strong>Twitter:</strong> <a href="https://twitter.com/jociecolella">@jociecolella</a></p>
+</div>

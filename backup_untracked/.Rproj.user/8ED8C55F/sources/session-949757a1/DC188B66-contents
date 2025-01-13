@@ -1,0 +1,103 @@
+---
+title: "Getting Ready"
+date: 2024-10-02
+---
+
+<div style="margin-bottom: 20px;">
+  <button id="fieldButton" class="tab-button" onclick="showSection('field')">Field Preparation</button>
+  <button id="bioButton" class="tab-button" onclick="showSection('bioinformatics')">Bioinformatics Preparation</button>
+</div>
+
+<!-- Field Preparation Section -->
+<div id="field" style="display:none;">
+
+  
+  #### What to Bring
+  - **Field clothes and gear**: 
+    - Pants
+    - Long sleeves
+    - Leather gloves
+    - Headlamp
+    - Rain gear
+    - Bug spray
+    - Sunscreen
+    - Hat
+    - Personal medications/toiletries as needed
+
+  - **Footwear**:
+    - Tall rubber boots and/or snake gaiters
+
+  - **Optional Items**:
+    - A "specimen prep kit" (scissors, forceps, etc.); otherwise, we will have equipment available for specimen preparation.
+    - Documentation of your rabies vaccination status to Dr. Colella. Only participants who have had a rabies vaccine (or proof of adequate rabies titers within the last 4 months) will be able to work with bats. Others will work with rodents and eulipotyphlans.
+</div>
+<!-- Bioinformatics Preparation Section -->
+<div id="bioinformatics" style="display:none;">
+
+  #### What to Bring
+  - **Technology**:
+    - Laptop computer for the bioinformatic component of the workshop. As we get closer to the start of the workshop, we will email instructions with a list of software and files to download before arrival. Please ensure you have the necessary software by visiting the [Software Installation page](../programs).
+
+  #### What to Prepare
+  No prior experience in molecular biology or bioinformatics is necessary for the workshop, but familiarity with basic concepts will be helpful. Ensure that all required software is installed prior to the start of the workshop.
+
+  You will also have an opportunity to share your background in bioinformatics during informal discussions. Be ready to briefly introduce yourself and share the following information:
+  - **Name**, position/title/career stage, organization
+  - **Motivation** for taking the bioinformatics component of the workshop
+  - **Research interests**
+  - **Expectations** or specific goals for the bioinformatics training
+</div>
+
+<style>
+  .tab-button {
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    color: #333;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-right: 10px;
+    border-radius: 5px;
+  }
+
+  .tab-button.active {
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+  }
+
+  h3, h4 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 1.5em;
+  }
+
+  ul {
+    margin-top: 5px;
+  }
+
+  li {
+    margin-bottom: 5px;
+  }
+</style>
+
+<script>
+  function showSection(section) {
+    document.getElementById('field').style.display = 'none';
+    document.getElementById('bioinformatics').style.display = 'none';
+
+    document.getElementById('fieldButton').classList.remove('active');
+    document.getElementById('bioButton').classList.remove('active');
+
+    if(section === 'field') {
+      document.getElementById('field').style.display = 'block';
+      document.getElementById('fieldButton').classList.add('active');
+    } else if(section === 'bioinformatics') {
+      document.getElementById('bioinformatics').style.display = 'block';
+      document.getElementById('bioButton').classList.add('active');
+    }
+  }
+
+  // Set default section to display
+  showSection('field');
+</script>
