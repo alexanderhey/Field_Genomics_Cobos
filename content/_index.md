@@ -31,31 +31,36 @@ title: Introduction
 - **💵 Program Fee:** Food, lodging, and travel sponsored for Latin American Participants.
 
 
-
-<p style="margin-top: 20px;">
+<p style="margin-top: 20px; text-align: justify;">
   Museums and Emerging Pathogens in the Americas 
   <a href="https://hsc.unm.edu/medicine/education/echo/emerging-pathogens/" target="_blank" style="text-decoration: none; color: #4aa0e6;">(MEPA)</a>
   is a virtual Community of Practice and a branch of 
   <a href="https://projectecho.unm.edu/" target="_blank" style="text-decoration: none; color: #4aa0e6;">Project ECHO</a> 
-  (Extensions for Community Healthcare Outcomes) that aims to develop robust connections between natural history museum biorepositories and biomedical initiatives across the Americas. Its mission is to improve the sustainability, rigor, and replicability of pathogen surveillance in wild animals.
+  (Extensions for Community Healthcare Outcomes) that aims to develop robust 
+  connections between natural history museum biorepositories and biomedical 
+  initiatives across the Americas. Its mission is to improve the sustainability,
+  rigor, and replicability of pathogen surveillance in wild animals.
 </p>
 
 
-<p style="margin-top: 20px;">In collaboration with QCAZ (the Museum of Zoology of the Pontificia Universidad Católica del Ecuador [PUCE]) and CISeAL (Center for Health Research in Latin America, PUCE), MEPA is leading a Field+Genomics Workshop in Ecuador in 2024. The workshop will train participants from diverse countries, backgrounds, and career stages in voucher-backed field surveillance and holistic preservation of mammalian host specimens. Participants will conduct field-based surveillance of small mammals, perform DNA extractions, library preparation, Nanopore Adaptive Sampling, and basic bioinformatics in the field.</p>
+<p style="margin-top: 20px; text-align: justify;">In collaboration with QCAZ (the Museum of Zoology 
+of the Pontificia Universidad Católica del Ecuador [PUCE]) and CISeAL (Center 
+for Health Research in Latin America, PUCE), MEPA lead a Field+Genomics 
+Workshop in Ecuador in 2024. The workshop trained participants from diverse 
+countries, backgrounds, and career stages in voucher-backed field surveillance 
+and holistic preservation of mammalian host specimens. Participants conducted 
+field-based surveillance of small mammals, perform DNA extractions, library 
+preparation, Nanopore Adaptive Sampling, and basic bioinformatics in the field.</p>
 
-
+<br>
 </div>
 
 ---
 
 <h2 class="text-center mt-5">Workshop Section Descriptions</h2>
 
-
-<p style="margin-top: 20px; margin-bottom: 20px; text-align: center;">
-  <i>Italics</i> = Lecture, Note: These sections are being updated.
-</p>
-
-
+<p style="margin-top: 10px; margin-bottom: 10px; text-align: center;">Click on 
+the buttons bellow to see details for each section.</p>
 
 
 </div> 
@@ -74,6 +79,7 @@ function showDescription(section) {
         fieldwork: `
         <div style="color: black;">
            <h3>Fieldwork Itinerary</h3>
+           <br>
 <div class="itinerary-day">
     <h4>Monday, Oct 28 (Day 1) </h4>
     <p>Lunch on your own, before the group meets at QCAZ</p>
@@ -90,58 +96,72 @@ function showDescription(section) {
     </ul>
     <p>Group Introductions</p>
     <p>Tour QCAZ</p>
-   <p><i>Introduction to MEPA & holistic collecting</i></p>
-    (*if time, otherwise we can do this at Otongachi</p>
+    <p><i>Lecture: Introduction to MEPA & holistic collecting</i></p>
+    <br>
     <p>2:00 pm - Travel by bus to Otongachi Field Station</p>
-    <p><i>Strategies for Building Infrastructure: Good practices for mammal-pathogen surveillance</i></p>
+    <p><i>Lecture: Strategies for Building Infrastructure: Good practices for 
+    mammal-pathogen surveillance</i></p>
+    <br>
     <p>6:00pm - Set traps & nets</p>
 </div>
 
 <div class="itinerary-day">
     <h4>Tuesday, Oct 29 (Day 2)</h4>
     <p>7:00 am - Check traps</p>
-    <p>Quick breakfast</p>
-    <p><i>Specimen preparation for biomedical research</i></p>
+    <br>
+    <p>Breakfast</p>
+    <p><i>Lecture: Specimen preparation for biomedical research</i></p>
     <p>Observe specimen preparation</p>
+    <br>
     <p>Lunch</p>
     <p>Practice specimen preparation</p>
     <p>Participants will rotate between prep stations each day</p>
-    <p><i>Local species and ecology</i></p>
+    <br>
+    <p><i>Lecture: Local species and ecology</i></p>
     <p>Rebait traps, set bat nets</p>
 </div>
 
 <div class="itinerary-day">
     <h4>Wednesday, Oct 30 (Day 3)</h4>
     <p>7:00 am - Check traps</p>
+    <br>
     <p>Breakfast</p>
     <p>Process animals and prepare specimens</p>
+    <br>
     <p>Lunch</p>
     <p>3-5 min research presentations (Participants) throughout the day</p>
     <p><i>Mammals and disease ecology</i></p>
+    <br>
     <p>Rebait traps, set bat nets</p>
 </div>
 
 <div class="itinerary-day">
     <h4>Thursday, Oct 31 (Day 4)</h4>
     <p>7:00 am - Check traps</p>
+    <br>
     <p>Breakfast</p>
     <p>Process animals and prepare specimens</p>
     <p><i>Field parasitology</i></p>
+    <br>
     <p>Lunch</p>
     <p>Relocate traplines to new habitats</p>
     <p><i>Holistic specimen research applications</i></p>
+    <br>
     <p>Rebait traps, set bat nets</p>
 </div>
 
 <div class="itinerary-day">
     <h4>Friday, Nov 1 (Day 5)</h4>
     <p>7:00 am - Check traps</p>
+    <br>
     <p>Breakfast</p>
     <p>Process animals and prepare specimens</p>
+    <br>
     <p>Lunch</p>
     <p>3-5 min research presentations (Participants) throughout the day</p>
     <p>Continue processing animals and preparing specimens</p>
     <p><i>Connecting biorepositories and biomedicine</i></p>
+    <br>
     <p>Rebait traps, set bat nets</p>
 </div>
 
@@ -149,20 +169,27 @@ function showDescription(section) {
     <h4>Saturday, Nov 2 (Day 6)</h4>
     <p>DNA extraction (4-6 hrs)</p>
     <p>7:00 am - Check traps</p>
+    <br>
+    <p>Breakfast</p>
     <p>Subset of crew process animals and prepare specimens</p>
+    <br>
     <p>Lunch</p>
     <p><i>Introduction to sequencing</i></p>
     <p><i>Nanopore Applications</i></p>
+    <br>
     <p>Rebait traps, set bat nets</p>
 </div>
 
 <div class="itinerary-day">
     <h4>Sunday, Nov 3 (Day 7)</h4>
     <p>6:00 am - Check traps/Process animals and prepare specimens</p>
+    <br>
     <p>Breakfast</p>
     <p>7:00 am - Nanopore library preparation (all participants)</p>
+    <br>
     <p>Lunch (during a library prep break)</p>
-    <p><i>Field genomics & global health equity (during a library prep break)</i></p>
+    <p><i>Lecture: Field genomics & global health equity (during a library prep break)</i></p>
+    <br>
     <p>6:00 pm - Load Nanopore sequencer</p>
     <p>Rebait traps, set bat nets</p>
 </div>
@@ -171,15 +198,19 @@ function showDescription(section) {
        bioinformatics: `
        <div style="color: black;">
        <h3>Bioinformatics Itinerary</h3>
+       <br>
        <div class="itinerary-day">
            <h4>Monday, Nov 4 (Day 8)</h4>
            <p>7:00 am - Check and collect traps (*last day of sampling)</p>
+           <br>
            <p>Breakfast</p>
            <p>Subset of group will process animals and prepare specimens</p>
            <p><i>Bioinformatics intro</i></p>
            <p>&lt;Sequencer running all day&gt;</p>
            <p><i>Walk through Bioinformatic Worked Example (Kipp et al. (2023))</i></p>
+           <br>
            <p>Lunch</p>
+           <p>&lt;Sequencer running all day&gt;</p>
        </div>
 
        <div class="itinerary-day">
@@ -187,8 +218,10 @@ function showDescription(section) {
            <p>8:00 am - Breakfast</p>
            <p>Finish sequencing run</p>
            <p>Basic bioinformatics on new data</p>
+           <br>
            <p>Lunch</p>
            <p>Continue bioinformatics on new data</p>
+           <br>
            <p>Workshop summary (Everyone–interactive)</p>
            <p>Workshop evaluation</p>
        </div>
@@ -196,6 +229,7 @@ function showDescription(section) {
        <div class="itinerary-day">
            <h4>Wednesday, Nov 6 (Day 10)</h4>
            <p>Group bus returns to Quito @ 8:00 am</p>
+           <br>
            <p>Participants depart for airport (all flights are around ~6:30 pm)</p>
        </div>
        </div>
@@ -231,11 +265,11 @@ function showDescription(section) {
 </style>
 ---
 
-<h2 class="text-center mt-5">Organizers</h2>
+<h2 class="text-center mt-5">Organizers and Instructors</h2>
 
 <!-- Description Text -->
 <p style="margin-top: 20px; margin-bottom: 20px; text-align: center;">
-  <i>Click the pictures below to learn more about each instructor.</i>
+  Click the pictures below to learn more about each instructor.
 </p>
 
 <!-- Card Section -->
@@ -249,10 +283,10 @@ function showDescription(section) {
     <h3 class="mt-2 text-center text-dark" style="font-size: 1.2rem;">Jocelyn Colella, PhD</h3>
   </div>
   <div class="organizer-back">
-    <p class="text-center text-dark" style="font-size: 1rem;">MEPA Co-founder
-Curator of Mammals, University of Kansas Biodiversity Institute
-Assistant Prof. Ecology & Evolutionary Biology
-<strong>Evolutionary genomicist • Conservationist • Outdoors-woman</strong>
+    <p class="text-center text-dark" style="font-size: 1rem;">
+Curator of Mammals at the University of Kansas Biodiversity Institute and
+Assistant Professor in the Ecology & Evolutionary Biology Department.
+<strong>Evolutionary genomicist • MEPA Co-founder</strong>
 </p>
   </div>
 </div>
@@ -264,8 +298,10 @@ Assistant Prof. Ecology & Evolutionary Biology
     <h3 class="mt-2 text-center text-dark" style="font-size: 1.2rem;">Joseph Cook, PhD</h3>
   </div>
   <div class="organizer-back">
-    <p class="text-center text-dark" style="font-size: 1rem;">Curator of Mammals at the Museum of Southwestern Biology and Distinguished Professor of Biology at the University of New Mexico.
-<strong>Conservationist • MEPA co-founder • Grandpa of 2</strong></p>
+    <p class="text-center text-dark" style="font-size: 1rem;">Curator of Mammals 
+    at the Museum of Southwestern Biology and Distinguished Professor of Biology 
+    at the University of New Mexico.
+<strong>Conservationist • MEPA co-founder</strong></p>
   </div>
 </div>
 
@@ -276,8 +312,10 @@ Assistant Prof. Ecology & Evolutionary Biology
     <h3 class="mt-2 text-center text-dark" style="font-size: 1.2rem;">Alejandra Camacho, PhD</h3>
   </div>
   <div class="organizer-back">
-    <p class="text-center text-dark" style="font-size: 1rem;">Mammal Collection Manager at QCAZ Museo Zoología at the Pontificia Universidad Católica del Ecuador.
-<strong>Mammalogist • MEPA organizational team member • Ecuadorian</strong>
+    <p class="text-center text-dark" style="font-size: 1rem;">Mammal Collection 
+    Manager at Museo de Zoología (QCAZ), Pontificia Universidad Católica del 
+    Ecuador.
+<strong>Mammalogist • MEPA organizational team member</strong>
 </p>
   </div>
 </div>
@@ -289,20 +327,23 @@ Assistant Prof. Ecology & Evolutionary Biology
     <h3 class="mt-2 text-center text-dark" style="font-size: 1.2rem;">Carlos Carrion Bonilla, PhD</h3>
   </div>
   <div class="organizer-back">
-    <p class="text-center text-dark" style="font-size: 1rem;">Independent consultant.                
-<strong> <br>     Chiropter-ologist • Field biologist • Proud dad</strong> </p>
+    <p class="text-center text-dark" style="font-size: 1rem;">Associate 
+    Researcher at the Museum of Southwestern Biology, University of New Mexico 
+    and Museo de Zoología (QCAZ), Pontificia Universidad Católica del Ecuador.                
+<strong> <br>Chiropter-ologist • Field biologist</strong> </p>
   </div>
 </div>
 
-<!-- Kenzie -->
+<!-- Kenzie Grover -->
 <div class="organizer-card" onclick="flipCard(this)">
   <div class="organizer-front">
     <img src="/headshots/kenzie.jpg" alt="Kenzie" class="img-fluid rounded shadow" style="width: 300px; height: 100%;object-fit: cover;">
     <h3 class="mt-2 text-center text-dark" style="font-size: 1.2rem;">Mackenzie Grover</h3>
   </div>
   <div class="organizer-back">
-    <p class="text-center text-dark" style="font-size: 1rem;">Doctoral student in the Colella Lab at the University of Kansas Biodiversity Institute.
-<strong> <br> Parasitologist • MEPA Member • Loves Dogs</strong>
+    <p class="text-center text-dark" style="font-size: 1rem;">Doctoral student 
+    in the Colella Lab at the University of Kansas Biodiversity Institute.
+<strong> <br> Parasitologist • MEPA Member</strong>
 </p>
   </div>
 </div>
@@ -314,8 +355,9 @@ Assistant Prof. Ecology & Evolutionary Biology
     <h3 class="mt-2 text-center text-dark" style="font-size: 1.2rem;">John Dunnum, PhD</h3>
   </div>
   <div class="organizer-back">
-    <p class="text-center text-dark" style="font-size: 1rem;">Mammal Collection Manager at the Museum of Southwestern Biology, University of New Mexico.
-<strong>Mammalogist • Neotropical rodent enthusiast • Futbol player</strong>
+    <p class="text-center text-dark" style="font-size: 1rem;">Mammal Collection 
+    Manager at the Museum of Southwestern Biology, University of New Mexico.
+<strong>Mammalogist • MEPA Member</strong>
 </p>
   </div>
 </div>
@@ -323,12 +365,14 @@ Assistant Prof. Ecology & Evolutionary Biology
 <!-- Marlon E. Cobos -->
 <div class="organizer-card" onclick="flipCard(this)">
   <div class="organizer-front">
-    <img src="/headshots/Marlon.jpg" alt="Marlon Cobos" class="img-fluid rounded shadow" style="width: 300px; height: 100%;object-fit: cover;">
+    <img src="/headshots/Marlon-web.jpg" alt="Marlon Cobos" class="img-fluid rounded shadow" style="width: 300px; height: 100%;object-fit: cover;">
     <h3 class="mt-2 text-center text-dark" style="font-size: 1.2rem;">Marlon Cobos, PhD</h3>
   </div>
   <div class="organizer-back">
-    <p class="text-center text-dark" style="font-size: 1rem;"> <br> Postdoctoral Researcher in the Colella Lab at the University of Kansas Biodiversity Institute.
-<strong><br>Disease ecologist • Bioinformatician • Ecuadorian</strong></p>
+    <p class="text-center text-dark" style="font-size: 1rem;"> <br> Postdoctoral 
+    Researcher in the Colella Lab at the University of Kansas Biodiversity 
+    Institute.
+<strong><br>Disease ecologist • MEPA member</strong></p>
   </div>
 </div>
 
@@ -339,8 +383,9 @@ Assistant Prof. Ecology & Evolutionary Biology
     <h3 class="mt-2 text-center text-dark" style="font-size: 1.2rem;">Santiago Burneo, PhD</h3>
   </div>
   <div class="organizer-back">
-    <p class="text-center text-dark" style="font-size: 1rem;">Curator of Mammals at QCAZ Museo Zoología at the Pontificia Universidad Católica del Ecuador.
-<strong><br>Mammalogist • MEPA member • Collections advocate</strong>
+    <p class="text-center text-dark" style="font-size: 1rem;">Curator of Mammals 
+    at Museo de Zoología (QCAZ), Pontificia Universidad Católica del Ecuador.
+<strong><br>Mammalogist • MEPA member</strong>
 </div>
 </div>
 
@@ -351,8 +396,9 @@ Assistant Prof. Ecology & Evolutionary Biology
     <h3 class="mt-2 text-center text-dark" style="font-size: 1.2rem;">Ben Wiens</h3>
   </div>
   <div class="organizer-back">
-    <p class="text-center text-dark" style="font-size: 1rem;">Doctoral Candidate in the Colella Lab at the University of Kansas biodiversity Institute.
-<strong><br>Mammalogist • Evolutionary genomicist • Vole expert</strong></p>
+    <p class="text-center text-dark" style="font-size: 1rem;">Doctoral Candidate 
+    in the Colella Lab at the University of Kansas Biodiversity Institute.
+<strong><br>Evolutionary genomicist • MEPA member</strong></p>
   </div>
 </div>
 
@@ -363,8 +409,9 @@ Assistant Prof. Ecology & Evolutionary Biology
     <h3 class="mt-2 text-center text-dark" style="font-size: 1.2rem;">Alex Hey</h3>
   </div>
   <div class="organizer-back">
-    <p class="text-center text-dark" style="font-size: 1rem;">Masters student in the Colella Lab at the University of Kansas Biodiversity Institute.
-<strong><br>Wildlife biologist •Nanopore expert •From Chicago</strong></p>
+    <p class="text-center text-dark" style="font-size: 1rem;">Masters student in 
+    the Colella Lab at the University of Kansas Biodiversity Institute.
+<strong><br>Wildlife biologist • MEPA member</strong></p>
   </div>
 </div>
 
@@ -488,5 +535,5 @@ function flipCard(card) {
 <ul class="text-center list-unstyled">
    </li>
         <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2302677&HistoricalAwards=false" target="_blank">
-            <img src="/ULogos/NSF_Logo.png" alt="MEPA Logo" class="me-2" style="width: 50px; height: auto;">(#2302677):</a>This workshop is funded by an NSF PurSUiT award to Jocelyn P. Colella 
+            <img src="/ULogos/NSF_logo.png" alt="NSF Logo" class="me-2" style="width: 50px; height: auto;">(#2302677):</a>This workshop is funded by an NSF PurSUiT award to Jocelyn P. Colella 
 
