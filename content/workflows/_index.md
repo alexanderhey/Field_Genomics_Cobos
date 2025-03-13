@@ -91,7 +91,7 @@ pre code {
 ---
 # Worked Example
 
-
+<div style="text-align: justify;">
 The goal of this portion of the workshop is to practice the basic bioinformatic workflow required to process Nanopore adaptive sampling sequence data. Specifically, we will map reads to reference sequences, filter out host sequences, and perform homology searches against known pathogen sequences. This workflow uses publicly available data published by [Kipp et al. (2023)](https://www.nature.com/articles/s41598-023-37134-9).
 
 [Kipp et al. (2023)](https://www.nature.com/articles/s41598-023-37134-9) shows how NAS can be used to selectively sequence DNA from multiple bacterial tick-borne pathogens circulating in wild populations of the black-legged tick vector, <i>Ixodes scapularis</i>. They test the consistency of pathogen recovery using NAS enrichment and depletion methods, compared to more traditional Illumina metagenomic sequencing methods. NAS enrichment and depletion methods successfully recovered 4 bacterial tick-borne pathogens (<i>Borellia burgdorferi</i>; <i>Borella miyamotoi</i>; <i>Anaplasma phagocytophilum</i>; and <i>Eherlichia muris</i>) from 8 female <i>I. scapularis</i> ticks, and even resulted in the sequencing of the entire bacterial pathogen genomes. Importantly, their NAS results were consistent with Illumina 16S microbiome data.

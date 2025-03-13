@@ -83,16 +83,16 @@ menu:
       name: Getting Ready
       url: /getting-ready/
       weight: 2
+    - identifier: slides
+      name: Workshop Slides
+      url: /slides/
+      weight: 3
     - identifier: workflows
       name: Workflows
       url: /workflows/
-      weight: 3
-    - identifier: slides
-      name: Slides
-      url: /slides/
       weight: 4
     - identifier: replicate-workshop
-      name: Replicate This Workshop
+      name: Replicate this Workshop
       url: /replicate-this-workshop/
       weight: 5
     - identifier: contact-us
